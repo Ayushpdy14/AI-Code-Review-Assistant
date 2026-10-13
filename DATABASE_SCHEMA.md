@@ -1,0 +1,1 @@
+![ER Diagram](images/database-schema.png)

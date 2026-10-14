@@ -265,9 +265,11 @@ Used to store:
 
 # 👨‍💻 Author
 
-**Ojaswi**
+**Ayush Pandey**
 
-B.Tech Computer Science Engineering
+B.Tech Computer Science Engineering Cs (Ai & ML)
+
+Kanpur Institute of Technology
 
 ---
 
